@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "react": "^15.3.2",
-    "react-bootstrap": "^0.30.6",
+    "react-bootstrap": "^0.30.6"
   },
   "url" : "https://github.com/null-none/react-bootstrap-zoom",
   "author": "Dmitry Kalinin",
