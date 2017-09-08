@@ -8,6 +8,11 @@ Images zoom on hover as react bootstrap components
 npm install react-bootstrap-zoom
 ```
 
+## Demo
+
+![Demo](https://raw.githubusercontent.com/null-none/react-bootstrap-zoom/master/demo.gif)
+
+
 ## Example
 
 ```js
@@ -20,6 +25,7 @@ import ZoomImage from 'react-bootstrap-zoom';
 
 ## License
 MIT
+
 
 ## Donation Button
 
