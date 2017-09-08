@@ -1,0 +1,21 @@
+{
+  "name": "react-bootstrap-zoom",
+  "version": "0.0.1",
+  "description": "Images zoom on hover as react bootstrap components",
+  "main": "zoomImage.js",
+  "keywords": [
+    "react",
+    "bootstrap",
+    "zoom",
+    "react bootstrap zoom"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "react": "^15.3.2",
+    "react-bootstrap": "^0.30.6",
+  },
+  "url" : "https://github.com/null-none/react-bootstrap-zoom",
+  "author": "Dmitry Kalinin",
+  "license": "MIT"
+}
